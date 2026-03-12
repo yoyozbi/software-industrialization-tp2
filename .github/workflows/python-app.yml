@@ -57,4 +57,3 @@ jobs:
         file: ./Dockerfile
         push: true
         tags: latest 
-        platforms: linux/amd64,linux/arm64
