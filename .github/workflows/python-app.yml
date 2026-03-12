@@ -56,4 +56,4 @@ jobs:
         context: .
         file: ./Dockerfile
         push: true
-        tags: latest 
+        tags: ghcr.io/${{ github.actor }}/tp2:latest
